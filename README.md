@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## String
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 <!---LeetCode Topics End-->
