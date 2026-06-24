@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3931-check-adjacent-digit-differences) |
@@ -19,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
