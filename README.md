@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
@@ -45,4 +46,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
