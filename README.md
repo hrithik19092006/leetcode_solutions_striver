@@ -13,6 +13,7 @@
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3931-check-adjacent-digit-differences) |
 ## Math
@@ -37,6 +38,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
