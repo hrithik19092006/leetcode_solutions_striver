@@ -1,25 +1,19 @@
 class Solution {
-    void generate(vector<int>&nums , vector<int>&temp , vector<int>&freq , vector<vector<int>>&ans){
-        if(temp.size() == nums.size()){
-            ans.push_back(temp);
+    void generate(int index , vector<int>&nums , vector<vector<int>>&ans){
+        if(index == nums.size()){
+            ans.push_back(nums);
             return;
         }
-        for(int i = 0 ; i < nums.size() ; i++){
-            if(freq[i] != 1){
-                temp.push_back(nums[i]);
-                freq[i] = 1;
-                generate(nums , temp , freq , ans);
-                freq[i] = 0;
-                temp.pop_back();
-            }
+        for(int i = index ; i < nums.size() ; i++){
+            swap(nums[index] , nums[i]);
+            generate(index + 1 , nums , ans);
+            swap(nums[index] , nums[i]);
         }
     }
 public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<int>temp;
-        vector<int>freq(nums.size() , 0);
-        generate(nums , temp , freq , ans);
+        generate(0 , nums , ans);
         return ans;
     }
 };
