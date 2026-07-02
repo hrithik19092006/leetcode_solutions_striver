@@ -1,8 +1,13 @@
 class Solution {
-    bool func(int i , string &temp , int n){
-        if(i >= n/2)return true;
-        if(temp[i] != temp[n-i - 1])return false;
-        return func(i+1 , temp, n);
+    bool func(int start , string &temp , int end){
+        while (start <= end){
+            if(temp[start] != temp[end])return false;
+            else {
+                start ++;
+                end--;
+            }
+        }
+        return true;
     }
 public:
     bool isPalindrome(string s) {
@@ -12,6 +17,6 @@ public:
                 temp.push_back(tolower(ch));
             }
         }
-        return func(0, temp , temp.size());
+        return func(0, temp , temp.size() - 1);
     }
 };
