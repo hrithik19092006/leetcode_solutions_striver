@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
@@ -43,6 +44,7 @@
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
@@ -61,6 +63,7 @@
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
@@ -78,4 +81,12 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
