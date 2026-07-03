@@ -43,6 +43,7 @@
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
@@ -62,6 +63,7 @@
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
