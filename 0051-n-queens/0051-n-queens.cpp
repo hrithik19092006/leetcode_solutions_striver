@@ -1,57 +1,31 @@
 class Solution {
-    void solve(int col , vector<string>&board , vector<vector<string>>&ans,int n){
+    void solve(int col , vector<vector<string>>&ans , vector<string>&board , vector<int>&left , vector<int>&upper , vector <int>&lower , int n){
         if(col == n){
             ans.push_back(board);
             return;
         }
-        for(int row = 0; row < n ; row++){
-            if(isSafe(row , col , board , n)){
-                board[row][col] = 'Q';
-                solve(col +1 , board , ans , n);
+        for(int row = 0 ;row < n ; row++){
+            if(left[row] == 0 && upper[(n-1) +(col - row)] == 0 && lower[row + col] == 0){
+                board[row][col] ='Q';
+                left[row]= 1;
+                upper[(n-1) + (col - row)]= 1;
+                lower[row + col] = 1;
+                solve(col +1 , ans , board , left , upper , lower , n );
                 board[row][col] = '.';
+                left [row]= 0;
+                upper[(n-1) + (col -row)] = 0;
+                lower[row + col] = 0;
             }
         }
-    }
-    bool isSafe(int row , int col , vector<string>&board , int n){
-        int duprow = row;
-        int dupcol = col;
-
-        //lower 
-        while(row < n && col >= 0){
-            if(board[row][col] == 'Q'){
-                return false;
-            }
-            row ++;
-            col--;
-        }
-        row = duprow;
-        col = dupcol;
-
-        //upper
-        while(row >= 0 && col >= 0){
-            if(board[row][col] == 'Q'){
-                return false;
-            }
-            row--;
-            col--;
-        }
-        row = duprow;
-        col = dupcol;
-
-        //left
-        while(col >= 0){
-            if(board[row][col] == 'Q'){
-                return false;
-            }
-            col--;
-        }
-        return true;
     }
 public:
     vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<string>board(n , string(n , '.'));
-        solve (0 , board , ans , n);
+        vector<vector<string>>ans;
+        vector<string>board(n , string (n , '.'));
+        vector<int>left (n , 0 );
+        vector<int>upper (2*n - 1 , 0);
+        vector<int >lower(2*n - 1 , 0);
+        solve(0 , ans , board , left ,upper , lower , n);
         return ans;
     }
 };
