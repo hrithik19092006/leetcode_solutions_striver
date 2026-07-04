@@ -51,6 +51,7 @@
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -99,4 +100,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
