@@ -17,10 +17,10 @@ public:
             if(i==0){
                 ans.push_back(suffix[i+1]);
             }
-            if(i-1 >= 0 && i+1 < n){
+            else if(i-1 >= 0 && i+1 < n){
                 ans.push_back(prefix[i-1] * suffix[i+1]);
             }
-            if(i == n-1){
+            else {
                 ans.push_back(prefix[i-1]);
             }
         }
