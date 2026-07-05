@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0051-n-queens) |
@@ -104,4 +107,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
