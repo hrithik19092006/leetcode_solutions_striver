@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
 | ------- |
