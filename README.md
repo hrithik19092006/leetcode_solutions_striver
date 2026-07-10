@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
 ## Sorting
@@ -110,6 +113,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
 ## Prefix Sum
