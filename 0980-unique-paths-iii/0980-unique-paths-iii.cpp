@@ -8,16 +8,16 @@ class Solution {
             }
             return ;
         }
+        visited[row][col] = 1;
         safe_count --;
         for(int i = 0 ; i < 4 ; i++){
             int new_row = row + directions[i][0];
             int new_col = col + directions[i][1];
             if(new_row >= 0 && new_row < n && new_col < m && new_col >= 0 && visited[new_row][new_col] != 1 && grid[new_row][new_col] != -1){
-                visited[row][col] = 1;
                 solve(new_row , new_col ,grid , visited , directions , count , safe_count);
-                visited[row][col] = 0;
             }
         }
+        visited[row][col] = 0;
     }
 public:
     int uniquePathsIII(vector<vector<int>>& grid) {
