@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -136,4 +137,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
