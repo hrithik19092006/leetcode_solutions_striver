@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
@@ -143,6 +144,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
