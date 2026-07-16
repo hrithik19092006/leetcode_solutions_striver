@@ -10,7 +10,7 @@ public:
             st.push({value , value});
         }
         else{
-            st.push({value , min(value , st.top().second)});
+            st.push({value , min(value , st.top().second )});
         }
     }
     
