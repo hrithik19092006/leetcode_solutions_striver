@@ -67,6 +67,7 @@
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +111,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
@@ -143,10 +145,12 @@
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
