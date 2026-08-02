@@ -21,6 +21,7 @@
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3931-check-adjacent-digit-differences) |
@@ -121,6 +122,7 @@
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
 ## Sorting
 |  |
