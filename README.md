@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -20,6 +21,7 @@
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
+| [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
