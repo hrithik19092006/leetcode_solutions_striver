@@ -22,6 +22,7 @@
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -123,6 +124,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
+| [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
