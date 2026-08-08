@@ -26,6 +26,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
