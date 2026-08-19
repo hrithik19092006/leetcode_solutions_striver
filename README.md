@@ -50,6 +50,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
