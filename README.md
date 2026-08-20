@@ -100,6 +100,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 ## Backtracking
