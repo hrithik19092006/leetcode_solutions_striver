@@ -106,6 +106,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Depth-First Search
 |  |
 | ------- |
