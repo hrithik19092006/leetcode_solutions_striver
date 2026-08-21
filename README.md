@@ -38,6 +38,7 @@
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,4 +241,8 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
