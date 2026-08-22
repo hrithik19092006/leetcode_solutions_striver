@@ -95,6 +95,7 @@
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
