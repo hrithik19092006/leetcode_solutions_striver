@@ -94,6 +94,7 @@
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -254,4 +257,8 @@
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
