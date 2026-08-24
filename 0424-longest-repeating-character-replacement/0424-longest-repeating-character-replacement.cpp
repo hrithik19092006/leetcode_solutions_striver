@@ -9,12 +9,14 @@ public:
             freq[s[right] - 'A'] ++;
             maxfreq = max(maxfreq , freq[s[right] - 'A']);
             int len = right - left + 1 ;
-            while(len - maxfreq > k){
+            if(len - maxfreq > k){
                 freq[s[left] - 'A']--;
                 left ++;
                 len = right - left + 1 ;
             }
-            maxlen = max(maxlen , len);
+            if(len - maxfreq <= k){
+                maxlen = max(maxlen , len);
+            }
         }
         return maxlen;
     }
