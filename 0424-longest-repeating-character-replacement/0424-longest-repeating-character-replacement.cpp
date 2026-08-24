@@ -11,6 +11,10 @@ public:
             int len = right - left + 1 ;
             if(len - maxfreq > k){
                 freq[s[left] - 'A']--;
+                maxfreq = 0 ;
+                for(int i = 0 ; i < freq.size() ; i++){
+                    maxfreq = max(maxfreq , freq[i]);
+                }
                 left ++;
                 len = right - left + 1 ;
             }
