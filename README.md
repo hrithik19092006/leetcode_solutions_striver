@@ -89,6 +89,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
@@ -154,6 +155,7 @@
 | [0036-valid-sudoku](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
@@ -237,6 +240,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |
@@ -245,6 +249,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -264,4 +269,16 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
