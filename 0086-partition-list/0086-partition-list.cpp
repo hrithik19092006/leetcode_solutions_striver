@@ -11,31 +11,24 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
+        ListNode * smalldummy = new ListNode(0);
+        ListNode * bigdummy = new ListNode(0);
+        ListNode * small = smalldummy;
+        ListNode * big= bigdummy;
         ListNode * temp = head;
-        vector<int>left;
-        vector<int>right;
         while(temp != nullptr){
             if(temp -> val < x){
-                left.push_back(temp->val);
+                small -> next = temp;
+                small = small -> next;
             }
-            else{
-                right.push_back(temp->val);
+            else {
+                big -> next = temp;
+                big = big -> next;
             }
             temp = temp -> next;
         }
-        temp = head;
-        int i = 0 ;
-        while(i < left.size()){
-            temp-> val = left[i];
-            i++;
-            temp =temp-> next;
-        }
-        i=0;
-        while(i < right.size()){
-            temp-> val = right[i];
-            i++;
-            temp = temp-> next;
-        }
-        return head;
+        big -> next = nullptr;
+        small -> next = bigdummy -> next;
+        return smalldummy -> next;
     }
 };
