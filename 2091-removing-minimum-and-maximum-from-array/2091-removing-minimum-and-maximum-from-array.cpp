@@ -3,19 +3,25 @@ public:
     int minimumDeletions(vector<int>& nums) {
         int maxi = INT_MIN;
         int mini = INT_MAX;
-        unordered_map<int , int> mpp;
+        int max_index = -1;
+        int min_index = -1;
         for(int i = 0 ; i < nums.size() ; i++){
-            mini = min(nums[i] , mini);
-            maxi = max(nums[i], maxi);
-            mpp[nums[i]] = i ; 
+            if(nums[i] > maxi){
+                maxi = nums[i];
+                max_index = i;
+            }
+            if(nums[i] < mini){
+                mini = nums[i];
+                min_index = i;
+            }
         }
-        int ans = 0 ;
         int n = nums.size();
-        int x = min(mpp[mini] , mpp[maxi]);
-        int y = max(mpp[mini] , mpp[maxi]);
-        int temp1 = min(y + 1 , x + 1 + n - y);
-        int temp2 = min(n-x , x+1 + n - y);
-        ans = min(temp1 , temp2);
-        return ans;
+        int ans =0 ;
+        int x = min(max_index , min_index);
+        int y = max(max_index , min_index);
+        int left = y +1 ;
+        int right = n - x;
+        int both = x +1 + n - y;
+        return min({left , right , both});
     }
 };
