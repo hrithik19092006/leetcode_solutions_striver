@@ -36,9 +36,6 @@ public:
         for(int i = 0; i < n -1; i++){
             mini = min(mini , index[i+1] - index[i]);
         }
-        int maximum = index[n-1] - index[0];
-        ans.push_back(mini);
-        ans.push_back(maximum);
-        return ans;
+        return {mini , index[n-1] - index[0]};
     }
 };
