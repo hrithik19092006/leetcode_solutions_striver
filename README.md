@@ -49,6 +49,7 @@
 | [0412-fizz-buzz](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
@@ -68,6 +69,7 @@
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
 ## Recursion
 |  |
 | ------- |
@@ -307,4 +309,12 @@
 | ------- |
 | [0086-partition-list](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0086-partition-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
