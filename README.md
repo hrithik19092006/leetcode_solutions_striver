@@ -32,6 +32,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -179,6 +180,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -282,6 +284,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
