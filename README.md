@@ -105,6 +105,7 @@
 | [0904-fruit-into-baskets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
+| [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
@@ -178,6 +179,7 @@
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -275,6 +277,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
