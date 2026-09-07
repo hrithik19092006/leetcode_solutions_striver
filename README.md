@@ -96,6 +96,7 @@
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
@@ -222,6 +223,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
@@ -287,6 +289,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
@@ -305,6 +308,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
