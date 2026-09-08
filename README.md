@@ -9,6 +9,7 @@
 | [0086-partition-list](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +102,7 @@
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
@@ -201,6 +203,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Design
@@ -335,4 +339,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
