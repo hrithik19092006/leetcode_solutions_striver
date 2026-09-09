@@ -120,6 +120,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -210,6 +211,7 @@
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
