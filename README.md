@@ -71,6 +71,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
@@ -96,6 +97,7 @@
 | [0046-permutations](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0090-subsets-ii) |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
