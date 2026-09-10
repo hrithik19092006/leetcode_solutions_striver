@@ -74,6 +74,7 @@
 | [0055-jump-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
@@ -107,6 +108,7 @@
 | [0238-product-of-array-except-self](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
@@ -210,6 +212,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -262,6 +265,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
