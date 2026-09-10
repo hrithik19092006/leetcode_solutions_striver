@@ -40,6 +40,7 @@
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -130,6 +131,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
