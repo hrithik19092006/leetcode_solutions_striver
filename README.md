@@ -56,6 +56,7 @@
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -127,6 +128,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -249,6 +251,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
