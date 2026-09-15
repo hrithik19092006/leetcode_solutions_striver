@@ -140,6 +140,7 @@
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -233,6 +234,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
@@ -264,6 +266,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3904-smallest-stable-index-ii) |
@@ -351,6 +354,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
