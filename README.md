@@ -129,6 +129,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
+| [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -234,6 +235,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
@@ -257,6 +259,7 @@
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
+| [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 ## Prefix Sum
 |  |
 | ------- |
