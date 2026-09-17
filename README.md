@@ -118,6 +118,7 @@
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0498-diagonal-traverse) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +259,7 @@
 | [0036-valid-sudoku](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0498-diagonal-traverse) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
