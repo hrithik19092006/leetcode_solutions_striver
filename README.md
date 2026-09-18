@@ -139,6 +139,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
@@ -219,6 +220,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -241,6 +243,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -304,6 +307,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
+| [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
