@@ -126,6 +126,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0498-diagonal-traverse) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
