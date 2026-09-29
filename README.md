@@ -155,6 +155,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3903-smallest-stable-index-i) |
@@ -170,6 +171,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3842-toggle-light-bulbs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 ## Backtracking
@@ -231,6 +233,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3842-toggle-light-bulbs) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
 ## Sorting
 |  |
@@ -253,6 +256,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Depth-First Search
