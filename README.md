@@ -145,6 +145,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -227,6 +228,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2121-intervals-between-identical-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2121-intervals-between-identical-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -250,6 +252,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -353,6 +356,7 @@
 | [0383-ransom-note](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
 | ------- |
