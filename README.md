@@ -151,6 +151,7 @@
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
