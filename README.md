@@ -60,6 +60,7 @@
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
@@ -134,6 +135,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -432,4 +434,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
