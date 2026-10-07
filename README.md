@@ -35,6 +35,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
@@ -306,6 +307,7 @@
 | [0155-min-stack](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0334-increasing-triplet-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
