@@ -66,6 +66,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -333,6 +334,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
