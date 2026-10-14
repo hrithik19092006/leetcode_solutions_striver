@@ -10,6 +10,7 @@
 | [0125-valid-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -128,6 +129,7 @@
 | [0724-find-pivot-index](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0980-unique-paths-iii) |
@@ -256,6 +258,7 @@
 | [0435-non-overlapping-intervals](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0905-sort-array-by-parity](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0905-sort-array-by-parity) |
 | [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
