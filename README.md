@@ -161,6 +161,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -241,6 +242,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2615-sum-of-distances) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -446,4 +448,12 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
