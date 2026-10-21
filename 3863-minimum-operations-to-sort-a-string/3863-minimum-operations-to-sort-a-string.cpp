@@ -5,7 +5,7 @@ public:
         int n = s.size();
         sort(x.begin() , x.end());
         if(x == s)return 0;
-        if(x.size() == 2){
+        if(x.size() == 2 && x != s){
             return -1;
         }
         int mini = INT_MAX;
