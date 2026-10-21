@@ -47,6 +47,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3921-score-validator](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3941-password-strength) |
