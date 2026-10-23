@@ -42,6 +42,7 @@
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2315-count-asterisks](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2315-count-asterisks) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
