@@ -66,6 +66,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3536-maximum-product-of-two-digits](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -168,6 +169,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/3842-toggle-light-bulbs) |
