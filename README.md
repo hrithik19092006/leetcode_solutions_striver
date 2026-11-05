@@ -11,6 +11,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1768-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -145,6 +146,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1528-shuffle-string) |
@@ -269,6 +271,7 @@
 | [0905-sort-array-by-parity](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0905-sort-array-by-parity) |
 | [1329-sort-the-matrix-diagonally](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1710-maximum-units-on-a-truck) |
 | [2007-find-original-array-from-doubled-array](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2007-find-original-array-from-doubled-array) |
@@ -408,6 +411,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/hrithik19092006/leetcode_solutions_striver/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Divide and Conquer
